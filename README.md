@@ -1,14 +1,30 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Heart Icon</title>
-  </head>
-  <body>
-    <svg width="24" height="24" viewBox="0 0 24 24" fill="red">
-      <path
-        d="M12 21s-6-4.35-9.33-8.22C-.5 7.39 3.24 1 8.4 4.28 10.08 5.32 12 7.5 12 7.5s1.92-2.18 3.6-3.22C20.76 1 24.5 7.39 21.33 12.78 18 16.65 12 21 12 21z"
-      ></path>
-    </svg>
-  </body>
-</html>
+# A Red Heart Icon
+
+A red heart icon drawn as an inline SVG, created as part of the freeCodeCamp curriculum.
+
+## Live Demo
+
+[View the project](https://aqeelahlabs.github.io/A-Red-Heart-Icon/)
+
+## What I Practised
+
+- Structuring a basic HTML5 page
+- Embedding an inline SVG with `width`, `height` and `viewBox` attributes
+- Drawing a custom shape with an SVG `path` and colouring it with `fill`
+
+## Built With
+
+- HTML5
+- SVG
+
+## Run It Locally
+
+1. Clone the repository:
+```
+   git clone https://github.com/aqeelahlabs/A-Red-Heart-Icon.git
+```
+2. Open `index.html` in your browser.
+
+## Author
+
+Aqeelah, [@aqeelahlabs](https://github.com/aqeelahlabs)
